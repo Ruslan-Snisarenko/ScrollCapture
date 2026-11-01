@@ -1,0 +1,9 @@
+/target
+Screenshots/
+*.tmp
+*.log
+*.pdb
+*.obj
+.vs/
+.vscode/
+.idea/
